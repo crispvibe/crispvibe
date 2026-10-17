@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+  <img src="./assets/anim-banner.svg" width="100%" alt="Anna" />
+</div>
 
-<!--
-**crispvibe/crispvibe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 永远相信美好的事情即将发生
 
-Here are some ideas to get you started:
+安全研究员 / 全栈开发。在做 AI 编程工具、移动端逆向与自动化基础设施。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[anna.tf](https://www.anna.tf) · [GitHub](https://github.com/crispvibe)
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=crispvibe&show_icons=true&hide_border=true&hide_title=true&theme=github_dark&include_all_commits=true&count_private=true" alt="stats" />
+</div>
