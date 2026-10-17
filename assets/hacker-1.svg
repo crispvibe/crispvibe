@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1200" height="422" viewBox="0 0 1200 422" fill="none" role="img" aria-label="terminal session">
+  <defs>
+    <clipPath id="win"><rect x="0" y="0" width="1200" height="422" rx="14"/></clipPath>
+    <linearGradient id="scanline" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4ade80" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#4ade80" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#4ade80" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "PingFang SC", monospace; }
+    .line { animation-duration: 12s; animation-iteration-count: infinite; animation-timing-function: linear; opacity: 1; }
+
+    .cursor { animation: blink 1.05s steps(2, end) infinite; }
+    .scan { animation: sweep 12s linear infinite; }
+    .led { animation: pulse 2s ease-in-out infinite; }
+    @keyframes blink { 0%,49% { opacity: 1 } 50%,100% { opacity: 0 } }
+    @keyframes sweep { 0% { transform: translateY(0) } 100% { transform: translateY(422px) } }
+    @keyframes pulse { 0%,100% { opacity: .35 } 50% { opacity: 1 } }
+    .ln0 { animation-name: ln0 }
+    .ln1 { animation-name: ln1 }
+    .ln2 { animation-name: ln2 }
+    .ln3 { animation-name: ln3 }
+    .ln4 { animation-name: ln4 }
+    .ln5 { animation-name: ln5 }
+    .ln6 { animation-name: ln6 }
+    .ln7 { animation-name: ln7 }
+    .ln8 { animation-name: ln8 }
+    .ln9 { animation-name: ln9 }
+    .ln10 { animation-name: ln10 }
+    .ln11 { animation-name: ln11 }
+    @keyframes ln0 { 0%,2.40% { opacity: 0 } 3.00%,90% { opacity: 1 } 93%,100% { opacity: 0 } }
+    @keyframes ln1 { 0%,8.23% { opacity: 0 } 8.83%,90% { opacity: 1 } 93%,100% { opacity: 0 } }
+    @keyframes ln2 { 0%,14.07% { opacity: 0 } 14.67%,90% { opacity: 1 } 93%,100% { opacity: 0 } }
+    @keyframes ln3 { 0%,19.90% { opacity: 0 } 20.50%,90% { opacity: 1 } 93%,100% { opacity: 0 } }
+    @keyframes ln4 { 0%,25.73% { opacity: 0 } 26.33%,90% { opacity: 1 } 93%,100% { opacity: 0 } }
+    @keyframes ln5 { 0%,31.57% { opacity: 0 } 32.17%,90% { opacity: 1 } 93%,100% { opacity: 0 } }
+    @keyframes ln6 { 0%,37.40% { opacity: 0 } 38.00%,90% { opacity: 1 } 93%,100% { opacity: 0 } }
+    @keyframes ln7 { 0%,43.23% { opacity: 0 } 43.83%,90% { opacity: 1 } 93%,100% { opacity: 0 } }
+    @keyframes ln8 { 0%,49.07% { opacity: 0 } 49.67%,90% { opacity: 1 } 93%,100% { opacity: 0 } }
+    @keyframes ln9 { 0%,54.90% { opacity: 0 } 55.50%,90% { opacity: 1 } 93%,100% { opacity: 0 } }
+    @keyframes ln10 { 0%,60.73% { opacity: 0 } 61.33%,90% { opacity: 1 } 93%,100% { opacity: 0 } }
+    @keyframes ln11 { 0%,66.57% { opacity: 0 } 67.17%,90% { opacity: 1 } 93%,100% { opacity: 0 } }
+    @media (prefers-reduced-motion: reduce) {
+      .line { animation: none; opacity: 1; }
+      .cursor, .scan, .led { animation: none; }
+    }
+  </style>
+
+  <rect width="1200" height="422" rx="14" fill="#000000"/>
+  <g clip-path="url(#win)">
+    <!-- 顶部栏 -->
+    <rect x="0" y="0" width="1200" height="44" fill="#07090c"/>
+    <line x1="0" y1="44" x2="1200" y2="44" stroke="#14181f"/>
+    <circle cx="22" cy="22.0" r="5" fill="#2a2f37"/>
+    <circle cx="40" cy="22.0" r="5" fill="#2a2f37"/>
+    <circle cx="58" cy="22.0" r="5" fill="#2a2f37"/>
+    <text class="mono" x="600.0" y="26.0" text-anchor="middle" font-size="12" fill="#5d646e">root@anna — zsh — 120×32</text>
+    <circle class="led" cx="1176" cy="22.0" r="3.5" fill="#4ade80"/>
+
+    <!-- 内容 -->
+    <g class="line ln0"><text class="mono" x="28" y="86" font-size="13" fill="#4ade80">$</text><text class="mono" x="42" y="86" font-size="13" fill="#e6edf3" font-weight="600">nmap -sS -T4 -p- 10.10.10.0/24</text></g>
+  <g class="line ln1"><text class="mono" x="28" y="112" font-size="13" fill="#6b7280">Starting Nmap 7.94 ( https://nmap.org ) at 02:14 CST</text></g>
+  <g class="line ln2"><text class="mono" x="28" y="138" font-size="13" fill="#6b7280">PORT</text><text class="mono" x="138" y="138" font-size="13" fill="#6b7280">STATE</text><text class="mono" x="208" y="138" font-size="13" fill="#6b7280">SERVICE</text><text class="mono" x="308" y="138" font-size="13" fill="#6b7280">VERSION</text></g>
+  <g class="line ln3"><text class="mono" x="28" y="164" font-size="13" fill="#6b7280">22/tcp</text><text class="mono" x="138" y="164" font-size="13" fill="#6b7280">open</text><text class="mono" x="208" y="164" font-size="13" fill="#6b7280">ssh</text><text class="mono" x="308" y="164" font-size="13" fill="#6b7280">OpenSSH 9.6p1</text></g>
+  <g class="line ln4"><text class="mono" x="28" y="190" font-size="13" fill="#6b7280">443/tcp</text><text class="mono" x="138" y="190" font-size="13" fill="#6b7280">open</text><text class="mono" x="208" y="190" font-size="13" fill="#6b7280">https</text><text class="mono" x="308" y="190" font-size="13" fill="#6b7280">nginx 1.25.1</text></g>
+  <g class="line ln5"><text class="mono" x="28" y="216" font-size="13" fill="#6b7280">3306/tcp</text><text class="mono" x="138" y="216" font-size="13" fill="#6b7280">open</text><text class="mono" x="208" y="216" font-size="13" fill="#6b7280">mysql</text><text class="mono" x="308" y="216" font-size="13" fill="#6b7280">MySQL 8.0.36</text></g>
+  <g class="line ln6"><text class="mono" x="28" y="242" font-size="13" fill="#fbbf24">[!] mysql root with empty password</text></g>
+  <g class="line ln7"><text class="mono" x="28" y="268" font-size="13" fill="#4ade80">$</text><text class="mono" x="42" y="268" font-size="13" fill="#e6edf3" font-weight="600">mysql -h 10.10.10.42 -u root --skip-password</text></g>
+  <g class="line ln8"><text class="mono" x="28" y="294" font-size="13" fill="#4ade80" font-weight="600">[+] dumping users ................ 1,284,912 rows</text></g>
+  <g class="line ln9"><text class="mono" x="28" y="320" font-size="13" fill="#4ade80">$</text><text class="mono" x="42" y="320" font-size="13" fill="#e6edf3" font-weight="600">./CVE-2023-4911 --exploit</text></g>
+  <g class="line ln10"><text class="mono" x="28" y="346" font-size="13" fill="#4ade80" font-weight="600">[+] uid=0(root) gid=0(root) groups=0(root)</text></g>
+  <g class="line ln11"><text class="mono" x="28" y="372" font-size="13" fill="#4ade80" font-weight="600">[✓] access established — 00:04:12</text></g>
+
+    <!-- 光标 -->
+    <rect class="cursor" x="42" y="386" width="8" height="15" fill="#4ade80"/>
+
+    <!-- 扫描线 -->
+    <g class="scan" opacity="0.9">
+      <rect x="0" y="0" width="1200" height="120" fill="url(#scanline)"/>
+    </g>
+  </g>
+
+  <rect x="0.5" y="0.5" width="1199" height="421" rx="13.5" fill="none" stroke="#161b22"/>
+</svg>
