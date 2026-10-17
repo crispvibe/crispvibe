@@ -12,6 +12,18 @@
   </picture>
 </p>
 
+## About
+
+安全研究员，也写全栈。做渗透测试与逆向工程，顺手把重复劳动交给脚本。
+喜欢把系统拆开看清结构，再按自己的方式装回去。
+
+<sub>Security researcher and full-stack engineer — penetration testing, reverse engineering,
+and automation. I take systems apart to see how they are built, then put them back my way.</sub>
+
+## Stack
+
+<p align="center"><sub>// LANGUAGES</sub></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/-Go-161b22?style=flat-square&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/-Python-161b22?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -24,6 +36,8 @@
   <img src="https://img.shields.io/badge/-Bash-161b22?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
 </p>
 
+<p align="center"><sub>// FRONTEND</sub></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/-React-161b22?style=flat-square&logo=react&logoColor=white" alt="React">
   <img src="https://img.shields.io/badge/-Vue-161b22?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue">
@@ -31,6 +45,8 @@
   <img src="https://img.shields.io/badge/-Nuxt-161b22?style=flat-square&logo=nuxt&logoColor=white" alt="Nuxt">
   <img src="https://img.shields.io/badge/-Tailwind-161b22?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind">
 </p>
+
+<p align="center"><sub>// BACKEND</sub></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
@@ -41,11 +57,15 @@
   <img src="https://img.shields.io/badge/-GraphQL-161b22?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL">
 </p>
 
+<p align="center"><sub>// MOBILE</sub></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/-Flutter-161b22?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/-Android-161b22?style=flat-square&logo=android&logoColor=white" alt="Android">
   <img src="https://img.shields.io/badge/-微信小程序-161b22?style=flat-square&logo=wechat&logoColor=white" alt="微信小程序">
 </p>
+
+<p align="center"><sub>// DATA</sub></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
@@ -56,6 +76,8 @@
   <img src="https://img.shields.io/badge/-Elasticsearch-161b22?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch">
 </p>
 
+<p align="center"><sub>// INFRASTRUCTURE</sub></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/-Docker-161b22?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/-Kubernetes-161b22?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
@@ -63,6 +85,8 @@
   <img src="https://img.shields.io/badge/-Nginx-161b22?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
   <img src="https://img.shields.io/badge/-Terraform-161b22?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
 </p>
+
+<p align="center"><sub>// SECURITY</sub></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Burp Suite-161b22?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite">
