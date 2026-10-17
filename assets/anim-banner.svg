@@ -10,9 +10,6 @@
       <stop offset="0.5" stop-color="#5eead4" stop-opacity="0.55"/>
       <stop offset="1" stop-color="#5eead4" stop-opacity="0"/>
     </linearGradient>
-    <clipPath id="typing">
-      <rect id="tRect" x="0" y="0" width="0" height="340"/>
-    </clipPath>
   </defs>
 
   <style>
@@ -146,14 +143,10 @@
           fill="#9aa1ab">SECURITY RESEARCHER · FULL-STACK</text>
   </g>
 
-  <!-- 终端行 -->
-  <g clip-path="url(#typing)">
-    <text class="mono" x="508.0" y="292" font-size="14">
-      <tspan fill="#5eead4">~$</tspan><tspan fill="#c3c9d2" dx="9">whoami --verbose</tspan>
-    </text>
-    <animate xlink:href="#tRect" attributeName="width" from="0" to="1200"
-             dur="1.8s" begin="0.3s" fill="freeze"/>
-  </g>
+  <!-- 终端行（静态，不依赖 SMIL：GitHub 的 camo 代理下 SMIL 不一定执行） -->
+  <text class="mono" x="508.0" y="292" font-size="14">
+    <tspan fill="#5eead4">~$</tspan><tspan fill="#c3c9d2" dx="9">whoami --verbose</tspan>
+  </text>
   <rect class="caret" x="679.0" y="280" width="7" height="15" fill="#c3c9d2"/>
 
   <rect x="0.5" y="0.5" width="1199" height="339" fill="none" stroke="#141821"/>
