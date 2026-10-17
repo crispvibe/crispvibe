@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### 永远相信美好的事情即将发生
+## 永远相信美好的事情即将发生
 
 <sub>Always believe that something wonderful is about to happen.</sub>
 
@@ -34,13 +34,13 @@
 
 ---
 
-### stack
+## stack
 
-<img src="./assets/tech-stack.svg?v=1" width="100%" alt="stack" />
+<img src="./assets/tech-stack.svg?v=2" width="100%" alt="stack" />
 
 ---
 
-### now
+## now
 
 **Acode** — AI 编程工具链，终端 / 模型 / 自动化接在一起<br />
 <sub>AI coding toolchain — terminal, models and automation in one place</sub>
@@ -53,7 +53,7 @@
 
 ---
 
-### creed
+## creed
 
 > 慢就是快，少就是多。
 >
