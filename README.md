@@ -14,11 +14,14 @@
 
 ## About
 
-安全研究员，也写全栈。做渗透测试与逆向工程，顺手把重复劳动交给脚本。
-喜欢把系统拆开看清结构，再按自己的方式装回去。
+不需要谁来告诉我边界在哪。<br/>
+想法比时代早半步，所以看起来总是错的。<br/>
+灵感不在山顶——山顶只是我路过的地方。<br/>
+没有什么是不可能的，只是还没轮到我。
 
-<sub>Security researcher and full-stack engineer — penetration testing, reverse engineering,
-and automation. I take systems apart to see how they are built, then put them back my way.</sub>
+<sub>No one needs to tell me where the line is. My ideas run half a step ahead of their time,
+which is exactly why they look wrong. Inspiration doesn't live at the peak — the peak is just
+somewhere I pass through. Nothing is impossible; it simply hasn't been my turn yet.</sub>
 
 ## Stack
 
