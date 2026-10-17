@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/anim-banner.svg?v=3" width="100%" alt="Anna" />
+  <img src="./assets/banner-2026.svg?v=1" width="100%" alt="Anna" />
 </div>
 
 <div align="center">
@@ -42,13 +42,13 @@
 
 ### now
 
-**Acode** — AI 编程工具链，终端 / 模型 / 自动化接在一起
+**Acode** — AI 编程工具链，终端 / 模型 / 自动化接在一起<br />
 <sub>AI coding toolchain — terminal, models and automation in one place</sub>
 
-**Mobile RE** — 移动端加固样本的脱壳与分析流水线
+**Mobile RE** — 移动端加固样本的脱壳与分析流水线<br />
 <sub>Unpacking and analysis pipeline for hardened mobile samples</sub>
 
-**Infra** — 让一切自己跑起来，然后忘掉它
+**Infra** — 让一切自己跑起来，然后忘掉它<br />
 <sub>Make everything run itself, then forget about it</sub>
 
 ---
