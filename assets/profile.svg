@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1577" viewBox="0 0 1000 1577" fill="none" role="img" aria-label="Anna — 21 · security research · full-stack">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1097" viewBox="0 0 1000 1097" fill="none" role="img" aria-label="Anna — 21 · security research · full-stack">
   <defs>
     <radialGradient id="halo" cx="50%" cy="50%" r="50%">
       <stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/>
@@ -21,7 +21,7 @@
     }
   </style>
 
-  <rect width="1000" height="1577" fill="#000000"/>
+  <rect width="1000" height="1097" fill="#000000"/>
     <rect x="0" y="0" width="1000" height="330" fill="#000000"/>
   <circle class="star" cx="453" cy="184" r="0.8" fill="#fff" style="animation-duration:4.21s;animation-delay:-5.13s;opacity:0.34"/>
   <circle class="star" cx="799" cy="157" r="1.1" fill="#fff" style="animation-duration:5.57s;animation-delay:-0.56s;opacity:0.43"/>
@@ -188,107 +188,86 @@
   <text class="sans" x="500.0" y="408" text-anchor="middle" font-size="25" font-weight="600" fill="#ffffff">永远相信美好的事情即将发生</text>
   <text class="sans" x="500.0" y="442" text-anchor="middle" font-size="13.5" fill="#79808a">Always believe that something wonderful is about to happen.</text>
   <rect x="50" y="496" width="2" height="46" fill="#1f2530"/>
-  <text class="sans" x="72" y="516" font-size="16.5" fill="#dfe4ea">「人们总幻想天马行空，我只希望灵感一直停在顶峰。」</text>
-  <text class="sans" x="72" y="543" font-size="12.5" fill="#767d87">People dream of wandering the sky — I only ask that inspiration stay at its peak.</text>
+  <text class="sans" x="72" y="516" font-size="16.5" fill="#dfe4ea">「人生的剧本早就写好了，剩下的只是把它演好看。」</text>
+  <text class="sans" x="72" y="543" font-size="12.5" fill="#767d87">The script of a life is written long before it is lived. All that remains is to play it well.</text>
   <rect x="50" y="575" width="2" height="46" fill="#1f2530"/>
-  <text class="sans" x="72" y="595" font-size="16.5" fill="#dfe4ea">「我写代码，也拆代码。造工具的手，和破工具的手，是同一双。」</text>
-  <text class="sans" x="72" y="622" font-size="12.5" fill="#767d87">I build code and I break it. The hands that make tools are the hands that take them apart.</text>
-  <text class="sans" x="72" y="700" font-size="11" font-weight="600" letter-spacing="3.2" fill="#5d646e">STACK</text>
-  <rect x="72" y="712" width="856" height="1" fill="#14181f"/>
-  <text class="sans" x="72" y="765" font-size="11.5" letter-spacing="2.2" fill="#5d646e">LANG</text>
-  <rect x="164" y="746" width="39" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="176" y="766" font-size="13" fill="#c3c9d2">Go</text>
-  <rect x="211" y="746" width="68" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="223" y="766" font-size="13" fill="#c3c9d2">Python</text>
-  <rect x="286" y="746" width="97" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="298" y="766" font-size="13" fill="#c3c9d2">TypeScript</text>
-  <rect x="391" y="746" width="97" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="403" y="766" font-size="13" fill="#c3c9d2">JavaScript</text>
-  <rect x="496" y="746" width="46" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="508" y="766" font-size="13" fill="#c3c9d2">PHP</text>
-  <rect x="550" y="746" width="53" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="562" y="766" font-size="13" fill="#c3c9d2">Rust</text>
-  <rect x="611" y="746" width="60" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="623" y="766" font-size="13" fill="#c3c9d2">Swift</text>
-  <rect x="679" y="746" width="46" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="691" y="766" font-size="13" fill="#c3c9d2">SQL</text>
-  <rect x="733" y="746" width="53" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="745" y="766" font-size="13" fill="#c3c9d2">Bash</text>
-  <text class="sans" x="72" y="809" font-size="11.5" letter-spacing="2.2" fill="#5d646e">BACKEND</text>
-  <rect x="164" y="790" width="75" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="176" y="810" font-size="13" fill="#c3c9d2">Node.js</text>
-  <rect x="247" y="790" width="46" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="259" y="810" font-size="13" fill="#c3c9d2">Gin</text>
-  <rect x="301" y="790" width="75" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="313" y="810" font-size="13" fill="#c3c9d2">FastAPI</text>
-  <rect x="384" y="790" width="75" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="396" y="810" font-size="13" fill="#c3c9d2">Laravel</text>
-  <rect x="467" y="790" width="97" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="479" y="810" font-size="13" fill="#c3c9d2">PostgreSQL</text>
-  <rect x="572" y="790" width="60" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="584" y="810" font-size="13" fill="#c3c9d2">Redis</text>
-  <rect x="640" y="790" width="60" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="652" y="810" font-size="13" fill="#c3c9d2">MySQL</text>
-  <rect x="708" y="790" width="53" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="720" y="810" font-size="13" fill="#c3c9d2">gRPC</text>
-  <text class="sans" x="72" y="853" font-size="11.5" letter-spacing="2.2" fill="#5d646e">MOBILE</text>
-  <rect x="164" y="834" width="75" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="176" y="854" font-size="13" fill="#c3c9d2">SwiftUI</text>
-  <rect x="247" y="834" width="75" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="259" y="854" font-size="13" fill="#c3c9d2">Flutter</text>
-  <rect x="330" y="834" width="60" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="342" y="854" font-size="13" fill="#c3c9d2">Frida</text>
-  <rect x="398" y="834" width="68" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="410" y="854" font-size="13" fill="#c3c9d2">Ghidra</text>
-  <rect x="474" y="834" width="46" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="486" y="854" font-size="13" fill="#c3c9d2">IDA</text>
-  <text class="sans" x="72" y="897" font-size="11.5" letter-spacing="2.2" fill="#5d646e">INFRA</text>
-  <rect x="164" y="878" width="68" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="176" y="898" font-size="13" fill="#c3c9d2">Docker</text>
-  <rect x="240" y="878" width="97" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="252" y="898" font-size="13" fill="#c3c9d2">Kubernetes</text>
-  <rect x="344" y="878" width="60" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="356" y="898" font-size="13" fill="#c3c9d2">Linux</text>
-  <rect x="413" y="878" width="60" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="425" y="898" font-size="13" fill="#c3c9d2">Nginx</text>
-  <rect x="481" y="878" width="60" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="493" y="898" font-size="13" fill="#c3c9d2">CI/CD</text>
-  <rect x="550" y="878" width="97" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="562" y="898" font-size="13" fill="#c3c9d2">Prometheus</text>
-  <text class="sans" x="72" y="941" font-size="11.5" letter-spacing="2.2" fill="#5d646e">SECURITY</text>
-  <rect x="164" y="922" width="76" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="176" y="942" font-size="13" fill="#c3c9d2">渗透测试</text>
-  <rect x="248" y="922" width="76" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="260" y="942" font-size="13" fill="#c3c9d2">逆向工程</text>
-  <rect x="332" y="922" width="76" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="344" y="942" font-size="13" fill="#c3c9d2">免杀对抗</text>
-  <rect x="416" y="922" width="76" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="428" y="942" font-size="13" fill="#c3c9d2">代码审计</text>
-  <rect x="500" y="922" width="76" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
-  <text class="mono" x="512" y="942" font-size="13" fill="#c3c9d2">内网横向</text>
-  <text class="sans" x="72" y="992" font-size="11" font-weight="600" letter-spacing="3.2" fill="#5d646e">NOW</text>
-  <rect x="72" y="1004" width="856" height="1" fill="#14181f"/>
-  <text class="sans" x="72" y="1038" font-size="15" font-weight="600" fill="#ffffff">Acode</text>
-  <text class="sans" x="128" y="1038" font-size="14" fill="#9aa1ab">— AI 编程工具链，终端 / 模型 / 自动化接在一起</text>
-  <text class="sans" x="72" y="1060" font-size="12" fill="#6f7680">AI coding toolchain — terminal, models and automation in one place</text>
-  <text class="sans" x="72" y="1094" font-size="15" font-weight="600" fill="#ffffff">Mobile RE</text>
-  <text class="sans" x="162" y="1094" font-size="14" fill="#9aa1ab">— 移动端加固样本的脱壳与分析流水线</text>
-  <text class="sans" x="72" y="1116" font-size="12" fill="#6f7680">Unpacking and analysis pipeline for hardened mobile samples</text>
-  <text class="sans" x="72" y="1150" font-size="15" font-weight="600" fill="#ffffff">Infra</text>
-  <text class="sans" x="128" y="1150" font-size="14" fill="#9aa1ab">— 让一切自己跑起来，然后忘掉它</text>
-  <text class="sans" x="72" y="1172" font-size="12" fill="#6f7680">Make everything run itself, then forget about it</text>
-  <text class="sans" x="72" y="1232" font-size="11" font-weight="600" letter-spacing="3.2" fill="#5d646e">CREED</text>
-  <rect x="72" y="1244" width="856" height="1" fill="#14181f"/>
-  <rect x="54" y="1262" width="2" height="40" fill="#1f2530"/>
-  <text class="sans" x="72" y="1278" font-size="15" fill="#dfe4ea">慢就是快，少就是多。</text>
-  <text class="sans" x="72" y="1301" font-size="12" fill="#6f7680">Slow is fast. Less is more.</text>
-  <rect x="54" y="1321" width="2" height="40" fill="#1f2530"/>
-  <text class="sans" x="72" y="1337" font-size="15" fill="#dfe4ea">不相信运气，相信复利。</text>
-  <text class="sans" x="72" y="1360" font-size="12" fill="#6f7680">I don't believe in luck; I believe in compounding.</text>
-  <rect x="54" y="1380" width="2" height="40" fill="#1f2530"/>
-  <text class="sans" x="72" y="1396" font-size="15" fill="#dfe4ea">永远相信美好的事情即将发生。</text>
-  <text class="sans" x="72" y="1419" font-size="12" fill="#6f7680">Always believe that something wonderful is about to happen.</text>
-  <rect x="72" y="1481" width="856" height="1" fill="#14181f"/>
-  <text class="mono" x="500.0" y="1521" text-anchor="middle" font-size="11.5" letter-spacing="1.6" fill="#5d646e">21 · still climbing · always shipping</text>
-  <rect x="0.5" y="0.5" width="999" height="1576" fill="none" stroke="#101419"/>
+  <text class="sans" x="72" y="595" font-size="16.5" fill="#dfe4ea">「命是定数，运是变数。定数改不了，变数看你怎么演。」</text>
+  <text class="sans" x="72" y="622" font-size="12.5" fill="#767d87">Fate is the fixed term, fortune the variable. The first can't be rewritten; the second is yours to perform.</text>
+  <rect x="50" y="654" width="2" height="46" fill="#1f2530"/>
+  <text class="sans" x="72" y="674" font-size="16.5" fill="#dfe4ea">「所有的偶然，都是必然提前埋好的伏笔。」</text>
+  <text class="sans" x="72" y="701" font-size="12.5" fill="#767d87">Every coincidence is a setup planted long before it happens.</text>
+  <text class="sans" x="72" y="779" font-size="11" font-weight="600" letter-spacing="3.2" fill="#5d646e">STACK</text>
+  <rect x="72" y="791" width="856" height="1" fill="#14181f"/>
+  <text class="sans" x="72" y="844" font-size="11.5" letter-spacing="2.2" fill="#5d646e">LANG</text>
+  <rect x="164" y="825" width="39" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="176" y="845" font-size="13" fill="#c3c9d2">Go</text>
+  <rect x="211" y="825" width="68" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="223" y="845" font-size="13" fill="#c3c9d2">Python</text>
+  <rect x="286" y="825" width="97" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="298" y="845" font-size="13" fill="#c3c9d2">TypeScript</text>
+  <rect x="391" y="825" width="97" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="403" y="845" font-size="13" fill="#c3c9d2">JavaScript</text>
+  <rect x="496" y="825" width="46" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="508" y="845" font-size="13" fill="#c3c9d2">PHP</text>
+  <rect x="550" y="825" width="53" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="562" y="845" font-size="13" fill="#c3c9d2">Rust</text>
+  <rect x="611" y="825" width="60" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="623" y="845" font-size="13" fill="#c3c9d2">Swift</text>
+  <rect x="679" y="825" width="46" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="691" y="845" font-size="13" fill="#c3c9d2">SQL</text>
+  <rect x="733" y="825" width="53" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="745" y="845" font-size="13" fill="#c3c9d2">Bash</text>
+  <text class="sans" x="72" y="888" font-size="11.5" letter-spacing="2.2" fill="#5d646e">BACKEND</text>
+  <rect x="164" y="869" width="75" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="176" y="889" font-size="13" fill="#c3c9d2">Node.js</text>
+  <rect x="247" y="869" width="46" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="259" y="889" font-size="13" fill="#c3c9d2">Gin</text>
+  <rect x="301" y="869" width="75" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="313" y="889" font-size="13" fill="#c3c9d2">FastAPI</text>
+  <rect x="384" y="869" width="75" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="396" y="889" font-size="13" fill="#c3c9d2">Laravel</text>
+  <rect x="467" y="869" width="97" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="479" y="889" font-size="13" fill="#c3c9d2">PostgreSQL</text>
+  <rect x="572" y="869" width="60" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="584" y="889" font-size="13" fill="#c3c9d2">Redis</text>
+  <rect x="640" y="869" width="60" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="652" y="889" font-size="13" fill="#c3c9d2">MySQL</text>
+  <rect x="708" y="869" width="53" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="720" y="889" font-size="13" fill="#c3c9d2">gRPC</text>
+  <text class="sans" x="72" y="932" font-size="11.5" letter-spacing="2.2" fill="#5d646e">MOBILE</text>
+  <rect x="164" y="913" width="75" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="176" y="933" font-size="13" fill="#c3c9d2">SwiftUI</text>
+  <rect x="247" y="913" width="75" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="259" y="933" font-size="13" fill="#c3c9d2">Flutter</text>
+  <rect x="330" y="913" width="60" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="342" y="933" font-size="13" fill="#c3c9d2">Frida</text>
+  <rect x="398" y="913" width="68" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="410" y="933" font-size="13" fill="#c3c9d2">Ghidra</text>
+  <rect x="474" y="913" width="46" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="486" y="933" font-size="13" fill="#c3c9d2">IDA</text>
+  <text class="sans" x="72" y="976" font-size="11.5" letter-spacing="2.2" fill="#5d646e">INFRA</text>
+  <rect x="164" y="957" width="68" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="176" y="977" font-size="13" fill="#c3c9d2">Docker</text>
+  <rect x="240" y="957" width="97" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="252" y="977" font-size="13" fill="#c3c9d2">Kubernetes</text>
+  <rect x="344" y="957" width="60" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="356" y="977" font-size="13" fill="#c3c9d2">Linux</text>
+  <rect x="413" y="957" width="60" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="425" y="977" font-size="13" fill="#c3c9d2">Nginx</text>
+  <rect x="481" y="957" width="60" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="493" y="977" font-size="13" fill="#c3c9d2">CI/CD</text>
+  <rect x="550" y="957" width="97" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="562" y="977" font-size="13" fill="#c3c9d2">Prometheus</text>
+  <text class="sans" x="72" y="1020" font-size="11.5" letter-spacing="2.2" fill="#5d646e">SECURITY</text>
+  <rect x="164" y="1001" width="76" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="176" y="1021" font-size="13" fill="#c3c9d2">渗透测试</text>
+  <rect x="248" y="1001" width="76" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="260" y="1021" font-size="13" fill="#c3c9d2">逆向工程</text>
+  <rect x="332" y="1001" width="76" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="344" y="1021" font-size="13" fill="#c3c9d2">免杀对抗</text>
+  <rect x="416" y="1001" width="76" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="428" y="1021" font-size="13" fill="#c3c9d2">代码审计</text>
+  <rect x="500" y="1001" width="76" height="30" rx="6" fill="#08090c" stroke="#1b2028"/>
+  <text class="mono" x="512" y="1021" font-size="13" fill="#c3c9d2">内网横向</text>
+  <rect x="0.5" y="0.5" width="999" height="1096" fill="none" stroke="#101419"/>
 </svg>
