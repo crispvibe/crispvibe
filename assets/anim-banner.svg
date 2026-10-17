@@ -140,7 +140,7 @@
     <text class="text" x="600.0" y="200" text-anchor="middle" font-size="86" font-weight="700"
           letter-spacing="-3" fill="#ffffff">Anna</text>
     <text class="text" x="600.0" y="238" text-anchor="middle" font-size="16" letter-spacing="4"
-          fill="#9aa1ab">SECURITY RESEARCHER · FULL-STACK</text>
+          fill="#9aa1ab">21 · SECURITY RESEARCH · FULL-STACK</text>
   </g>
 
   <!-- 终端行（静态，不依赖 SMIL：GitHub 的 camo 代理下 SMIL 不一定执行） -->
