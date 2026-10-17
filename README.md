@@ -6,6 +6,13 @@
 </p>
 
 <p align="center">
+  <picture>
+    <source srcset="./assets/hacker-1.svg?v=1" type="image/svg+xml">
+    <img src="./assets/hacker-1.svg?v=1" width="100%" alt="terminal session">
+  </picture>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/-Go-161b22?style=flat-square&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/-Python-161b22?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/-TypeScript-161b22?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
