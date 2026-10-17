@@ -5,14 +5,6 @@
   </picture>
 </p>
 
-<h2 align="center">人生的剧本早就写好了，<br/>剩下的只是把它演好看。</h2>
-
-<p align="center"><sub>THE SCRIPT IS WRITTEN — PLAY IT WELL</sub></p>
-
-<p align="center">
-  <kbd>安全研究</kbd> <kbd>全栈开发</kbd> <kbd>逆向工程</kbd> <kbd>小程序</kbd>
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/-Go-161b22?style=flat-square&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/-Python-161b22?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -73,5 +65,3 @@
   <img src="https://img.shields.io/badge/-OWASP-161b22?style=flat-square&logo=owasp&logoColor=white" alt="OWASP">
   <img src="https://img.shields.io/badge/-Kali-161b22?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali">
 </p>
-
-<p align="center"><sub><a href="https://www.anna.tf">anna.tf</a> · <a href="https://github.com/crispvibe">github</a></sub></p>
