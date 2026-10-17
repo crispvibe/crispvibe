@@ -1,21 +1,43 @@
+<p align="center">
+  <picture>
+    <source srcset="./assets/profile-banner.svg?v=1" type="image/svg+xml">
+    <img src="./assets/profile-banner.svg?v=1" width="100%" alt="Anna — 21 · security research · full-stack">
+  </picture>
+</p>
+
 <h2 align="center">人生的剧本早就写好了，<br/>剩下的只是把它演好看。</h2>
 
 <p align="center"><sub>THE SCRIPT IS WRITTEN — PLAY IT WELL</sub></p>
 
+<p align="center"><sub>STACK</sub></p>
+
 <p align="center">
-  <b>21</b> · 安全研究员 / 全栈开发<br/>
-  <sub>21 · SECURITY RESEARCHER / FULL-STACK</sub>
+  <img src="https://img.shields.io/badge/-Go-161b22?style=flat-square&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/-Python-161b22?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-TypeScript-161b22?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-JavaScript-161b22?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-PHP-161b22?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/-Rust-161b22?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/-Swift-161b22?style=flat-square&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/-Bash-161b22?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
 </p>
 
 <p align="center">
-  我造工具，也拆工具。<br/>
-  <sub>I build tools — and take them apart.</sub>
+  <img src="https://img.shields.io/badge/-Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/-Laravel-161b22?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/-React-161b22?style=flat-square&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/-PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/-Redis-161b22?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/-MySQL-161b22?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
 <p align="center">
-  相信剧本早已写好，<br/>
-  也相信每一场戏都由自己演。<br/>
-  <sub>The script is written.<br/>How each scene is played is still mine.</sub>
+  <img src="https://img.shields.io/badge/-Docker-161b22?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/-Kubernetes-161b22?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/-Linux-161b22?style=flat-square&logo=linux&logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/-Nginx-161b22?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
+  <img src="https://img.shields.io/badge/-Git-161b22?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/-Burp Suite-161b22?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite">
 </p>
 
 <p align="center"><sub><a href="https://www.anna.tf">anna.tf</a> · <a href="https://github.com/crispvibe">github</a></sub></p>
