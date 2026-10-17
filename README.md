@@ -9,7 +9,15 @@
 
 <p align="center"><sub>THE SCRIPT IS WRITTEN — PLAY IT WELL</sub></p>
 
-<p align="center"><sub>STACK</sub></p>
+<p align="center">
+  <kbd>安全研究</kbd> <kbd>全栈开发</kbd> <kbd>逆向工程</kbd> <kbd>自动化</kbd>
+</p>
+
+<p align="center">
+  21 岁。现在在做 <b>Acode</b> —— 一个 AI 编程工具链。<br/>
+  其余时间给移动端做逆向，给服务写自动化，然后让它们自己跑。<br/>
+  <sub>Twenty-one. Building Acode — an AI coding toolchain. Otherwise: mobile RE and automation.</sub>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Go-161b22?style=flat-square&logo=go&logoColor=white" alt="Go">
