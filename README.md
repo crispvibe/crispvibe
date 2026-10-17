@@ -1,14 +1,20 @@
-<div align="center">
-  <picture>
-    <source srcset="./assets/profile-v4.svg?v=1" type="image/svg+xml">
-    <img src="./assets/profile-v4.svg?v=1" width="100%" alt="Anna — 21 · security research · full-stack">
-  </picture>
-</div>
+<h2 align="center">人生的剧本早就写好了，<br/>剩下的只是把它演好看。</h2>
 
-<!--
-  用 <picture> 包住图片，GitHub 就不会再自动套一层 <a href=".../blob/...">，
-  点图片没有任何跳转。直接写 <img> 会被强制包链接（无 href 的 <a> 也会被剥掉后重包）。
+<p align="center"><sub>THE SCRIPT OF A LIFE IS WRITTEN LONG BEFORE IT IS LIVED</sub></p>
 
-  改内容：编辑 assets/gen_profile.py 里的常量，重跑 python3 gen_profile.py，
-  上传后把上面的 ?v=2 递增（GitHub 图片代理按 URL 缓存）。
--->
+<p align="center">
+  <b>21</b> · 安全研究员 / 全栈开发<br/>
+  <sub>21 · SECURITY RESEARCHER &amp; FULL-STACK ENGINEER</sub>
+</p>
+
+<p align="center">
+  我造工具，也拆工具。<br/>
+  <sub>I build tools — and I take them apart.</sub>
+</p>
+
+<p align="center">
+  相信剧本早已写好，也相信每一场戏都由自己演。<br/>
+  <sub>The script is written. How each scene is played is still mine.</sub>
+</p>
+
+<p align="center"><sub><a href="https://www.anna.tf">anna.tf</a> · <a href="https://github.com/crispvibe">github</a></sub></p>
