@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source srcset="./assets/profile-banner-v2.svg?v=1" type="image/svg+xml">
-    <img src="./assets/profile-banner-v2.svg?v=1" width="100%" alt="Anna — security research · full-stack">
+    <source srcset="./assets/profile-banner-v3.svg?v=1" type="image/svg+xml">
+    <img src="./assets/profile-banner-v3.svg?v=1" width="100%" alt="Anna — security research · full-stack">
   </picture>
 </p>
 
@@ -74,4 +74,4 @@
   <img src="https://img.shields.io/badge/-Kali-161b22?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali">
 </p>
 
-<p align="center"><sub><a href="https://www.anna.tf">anna.tf</a> · <a href="https://github.com/crispvibe">github</a> · <a href="mailto:Augustcode1@gmail.com">Augustcode1@gmail.com</a></sub></p>
+<p align="center"><sub><a href="https://www.anna.tf">anna.tf</a> · <a href="https://github.com/crispvibe">github</a></sub></p>
