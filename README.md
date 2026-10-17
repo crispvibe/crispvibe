@@ -14,14 +14,14 @@
 
 ## About
 
-不需要谁来告诉我边界在哪。<br/>
-想法比时代早半步，所以看起来总是错的。<br/>
-灵感不在山顶——山顶只是我路过的地方。<br/>
-没有什么是不可能的，只是还没轮到我。
+被磨掉的只是棱角，不是方向。<br/>
+被人看轻的那几年，我一直在攒力气。<br/>
+我在等一个出口，也在把自己变成能走出去的人。<br/>
+没有什么是不可能的。轮到我的时候，会很明显。
 
-<sub>No one needs to tell me where the line is. My ideas run half a step ahead of their time,
-which is exactly why they look wrong. Inspiration doesn't live at the peak — the peak is just
-somewhere I pass through. Nothing is impossible; it simply hasn't been my turn yet.</sub>
+<sub>What got worn away were the edges, not the direction. In the years they looked
+down on me, I was gathering force. I'm waiting for an exit — and turning myself into
+someone who can take it. Nothing is impossible. When it's my turn, it will be obvious.</sub>
 
 ## Stack
 
