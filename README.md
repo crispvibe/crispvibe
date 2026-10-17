@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source srcset="./assets/profile.svg?v=3" type="image/svg+xml">
-    <img src="./assets/profile.svg?v=3" width="100%" alt="Anna — 21 · security research · full-stack">
+    <source srcset="./assets/profile-v3.svg?v=1" type="image/svg+xml">
+    <img src="./assets/profile-v3.svg?v=1" width="100%" alt="Anna — 21 · security research · full-stack">
   </picture>
 </div>
 
