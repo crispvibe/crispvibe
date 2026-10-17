@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/anim-banner.svg" width="100%" alt="Anna" />
+  <img src="./assets/anim-banner.svg?v=2" width="100%" alt="Anna" />
 </div>
 
 ### 永远相信美好的事情即将发生
