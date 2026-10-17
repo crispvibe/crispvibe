@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source srcset="./assets/profile-banner-v3.svg?v=1" type="image/svg+xml">
-    <img src="./assets/profile-banner-v3.svg?v=1" width="100%" alt="Anna — security research · full-stack">
+    <source srcset="./assets/profile-banner-v4.svg?v=1" type="image/svg+xml">
+    <img src="./assets/profile-banner-v4.svg?v=1" width="100%" alt="Anna — security research · full-stack">
   </picture>
 </p>
 
